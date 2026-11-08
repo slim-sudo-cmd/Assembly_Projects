@@ -17,6 +17,7 @@
     .string "\n>>> Bodmas Ans is : %d"
 
 .text
+// main function
 main:
     // prologue
     stp x29,x30,[sp,#-16]!
